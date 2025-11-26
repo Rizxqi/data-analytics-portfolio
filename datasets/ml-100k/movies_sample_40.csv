@@ -1,0 +1,41 @@
+movie_id,title,release_date,video_release_date,imdb_url,Unknown,Action,Adventure,Animation,Children's,Comedy,Crime,Documentary,Drama,Fantasy,Film-Noir,Horror,Musical,Mystery,Romance,Sci-Fi,Thriller,War,Western
+1394,Swept from the Sea (1997),01-Jan-1997,,http://us.imdb.com/M/title-exact?Swept+from+the+Sea+(1997),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+744,Michael Collins (1996),11-Oct-1996,,http://us.imdb.com/M/title-exact?Michael%20Collins%20(1996),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+1606,Deceiver (1997),01-Jan-1997,,http://us.imdb.com/M/title-exact?Liar+(1997),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+50,Star Wars (1977),01-Jan-1977,,http://us.imdb.com/M/title-exact?Star%20Wars%20(1977),0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0
+189,"Grand Day Out, A (1992)",01-Jan-1992,,"http://us.imdb.com/M/title-exact?Grand%20Day%20Out,%20A%20(1992)",0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+483,Casablanca (1942),01-Jan-1942,,http://us.imdb.com/M/title-exact?Casablanca%20(1942),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0
+893,For Richer or Poorer (1997),01-Jan-1997,,http://us.imdb.com/M/title-exact?imdb-title-119142,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+614,Giant (1956),01-Jan-1956,,http://us.imdb.com/M/title-exact?Giant%20(1956),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1628,Lamerica (1994),01-Jan-1994,,http://us.imdb.com/M/title-exact?Lamerica%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1347,"Ballad of Narayama, The (Narayama Bushiko) (1958)",01-Jan-1958,,http://us.imdb.com/M/title-exact?Narayama%20Bushiko%20%281958%29,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1209,Mixed Nuts (1994),01-Jan-1994,,http://us.imdb.com/M/title-exact?Mixed%20Nuts%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+889,"Tango Lesson, The (1997)",01-Jan-1997,,"http://us.imdb.com/M/title-exact?Tango+Lesson,+The+(1997)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+382,"Adventures of Priscilla, Queen of the Desert, The (1994)",01-Jan-1994,,"http://us.imdb.com/M/title-exact?Adventures%20of%20Priscilla,%20Queen%20of%20the%20Desert,%20The%20(1994)",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1497,"Line King: Al Hirschfeld, The (1996)",11-Oct-1996,,"http://us.imdb.com/M/title-exact?Line%20King,%20The%20(1996)",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+989,Cats Don't Dance (1997),26-Mar-1997,,http://us.imdb.com/M/title-exact?Cats%20Don%27t%20Dance%20(1997),0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+272,Good Will Hunting (1997),01-Jan-1997,,http://us.imdb.com/M/title-exact?imdb-title-119217,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+71,"Lion King, The (1994)",01-Jan-1994,,"http://us.imdb.com/M/title-exact?Lion%20King,%20The%20(1994)",0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+428,Harold and Maude (1971),01-Jan-1971,,http://us.imdb.com/M/title-exact?Harold%20and%20Maude%20(1971),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1119,Some Kind of Wonderful (1987),01-Jan-1987,,http://us.imdb.com/M/title-exact?Some%20Kind%20of%20Wonderful%20(1987),0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+630,"Great Race, The (1965)",01-Jan-1965,,"http://us.imdb.com/M/title-exact?Great%20Race,%20The%20(1965)",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+1572,Wend Kuuni (God's Gift) (1982),01-Jan-1982,,http://us.imdb.com/M/title-exact?Wend%20Kuuni%20(1982),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+678,Volcano (1997),25-Apr-1997,,http://us.imdb.com/M/title-exact?Volcano%20%281997%29,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+1622,"Paris, France (1993)",01-Jan-1993,,"http://us.imdb.com/M/title-exact?Paris,%20France%20(1993)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1499,Grosse Fatigue (1994),01-Jan-1994,,http://us.imdb.com/M/title-exact?Grosse%20fatigue%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1048,She's the One (1996),23-Aug-1996,,http://us.imdb.com/M/title-exact?She's%20the%20One%20(1996),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+904,Ma vie en rose (My Life in Pink) (1997),26-Dec-1997,,http://us.imdb.com/M/title-exact?imdb-title-119590,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1266,Bread and Chocolate (Pane e cioccolata) (1973),01-Jan-1973,,http://us.imdb.com/M/title-exact?Pane%20e%20Cioccolata%20(1973),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1168,Little Buddha (1993),01-Jan-1993,,http://us.imdb.com/M/title-exact?Little%20Buddha%20(1993),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1651,"Spanish Prisoner, The (1997)",27-Mar-1998,,"http://us.imdb.com/Title?Spanish+Prisoner,+The+(1997)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+495,Around the World in 80 Days (1956),01-Jan-1956,,http://us.imdb.com/M/title-exact?Around%20the%20World%20in%2080%20Days%20(1956),0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+702,Barcelona (1994),01-Jan-1994,,http://us.imdb.com/M/title-exact?Barcelona%20(1994),0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+1306,Delta of Venus (1994),01-Jan-1994,,http://us.imdb.com/M/title-exact?Delta%20of%20Venus%20(1994),0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+480,North by Northwest (1959),01-Jan-1959,,http://us.imdb.com/M/title-exact?North%20by%20Northwest%20(1959),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+1122,They Made Me a Criminal (1939),01-Jan-1939,,http://us.imdb.com/M/title-exact?They%20Made%20Me%20a%20Criminal%20(1939),0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+1103,Trust (1990),01-Jan-1990,,http://us.imdb.com/Title?Trust+(1990),0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1118,Up in Smoke (1978),01-Jan-1978,,http://us.imdb.com/M/title-exact?Up%20in%20Smoke%20(1978),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1274,Robocop 3 (1993),01-Jan-1993,,http://us.imdb.com/M/title-exact?Robocop%203%20(1993),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+163,"Return of the Pink Panther, The (1974)",01-Jan-1974,,"http://us.imdb.com/M/title-exact?Return%20of%20the%20Pink%20Panther,%20The%20(1974)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,"Prophecy II, The (1998)",16-Jan-1998,,http://us.imdb.com/M/title-exact?imdb-title-119959,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+186,"Blues Brothers, The (1980)",01-Jan-1980,,"http://us.imdb.com/M/title-exact?Blues%20Brothers,%20The%20(1980)",0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0

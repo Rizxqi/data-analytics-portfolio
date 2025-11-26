@@ -1,0 +1,73 @@
+﻿Merek,Model,Tahun,JarakTempuh,UkuranMesin,Transmisi,Harga
+Toyota,Avanza,2018,75000,1300,Manual,145
+Honda,Brio,2019,60000,1200,Automatic,155
+Suzuki,Ertiga,2017,90000,1500,Manual,130
+Toyota,Innova,2016,110000,2000,Automatic,240
+Daihatsu,Xenia,2019,65000,1300,Manual,140
+Mitsubishi,Xpander,2020,50000,1500,Automatic,210
+Honda,Mobilio,2015,120000,1500,Manual,125
+Toyota,Avanza,2021,35000,1300,Automatic,175
+Suzuki,Ignis,2018,70000,1200,Manual,115
+Daihatsu,Terios,2017,95000,1500,Automatic,165
+Honda,HR-V,2019,55000,1500,Automatic,270
+Toyota,Rush,2020,45000,1500,Manual,220
+Mitsubishi,Pajero Sport,2015,130000,2500,Automatic,300
+Toyota,Fortuner,2016,105000,2400,Automatic,330
+Honda,CR-V,2017,85000,2000,Automatic,310
+Suzuki,Ertiga,2020,40000,1500,Automatic,180
+Daihatsu,Ayla,2021,30000,1000,Manual,105
+Toyota,Calya,2019,70000,1200,Automatic,120
+Honda,Jazz,2018,80000,1500,Automatic,195
+Mitsubishi,Xpander,2018,85000,1500,Manual,185
+Toyota,Avanza,2015,140000,1300,Manual,110
+Honda,Brio,2022,20000,1200,Manual,160
+Daihatsu,Sigra,2020,55000,1200,Automatic,115
+Suzuki,XL7,2021,38000,1500,Automatic,230
+Toyota,Innova,2019,60000,2400,Manual,300
+Honda,Mobilio,2017,100000,1500,Automatic,145
+Mitsubishi,Mirage,2016,95000,1200,Automatic,95
+Toyota,Yaris,2019,65000,1500,Automatic,205
+Daihatsu,Xenia,2016,115000,1300,Manual,115
+Suzuki,Baleno,2019,58000,1400,Automatic,170
+Honda,Civic,2018,70000,1500,Automatic,340
+Toyota,Vios,2017,90000,1500,Manual,150
+Mitsubishi,Xpander Cross,2021,30000,1500,Automatic,250
+Daihatsu,Rocky,2022,15000,1000,Automatic,215
+Toyota,Raize,2022,18000,1000,Automatic,220
+Honda,BR-V,2018,82000,1500,Manual,180
+Suzuki,Ertiga,2016,125000,1400,Manual,120
+Toyota,Agya,2019,72000,1200,Automatic,110
+Honda,Brio,2017,95000,1200,Manual,125
+Daihatsu,Luxio,2015,150000,1500,Manual,90
+Toyota,Avanza Veloz,2020,55000,1500,Automatic,195
+Mitsubishi,Xpander,2019,70000,1500,Manual,190
+Honda,HR-V,2016,110000,1800,Automatic,245
+Suzuki,Karimun Wagon R,2018,80000,1000,Manual,85
+Toyota,Innova Reborn,2021,40000,2400,Automatic,380
+Daihatsu,Sirion,2019,62000,1300,Automatic,135
+Honda,Jazz,2020,45000,1500,Automatic,230
+Toyota,Rush,2017,98000,1500,Manual,175
+Mitsubishi,Pajero Sport,2019,60000,2400,Automatic,420
+Suzuki,Jimny,2021,25000,1500,Manual,390
+Honda,CR-V Turbo,2020,35000,1500,Automatic,450
+Toyota,Alphard,2018,50000,2500,Automatic,750
+Daihatsu,Gran Max PU,2019,80000,1300,Manual,80
+Toyota,Hilux,2017,110000,2400,Manual,280
+Mitsubishi,Triton,2018,100000,2500,Automatic,320
+Honda,Accord,2019,55000,1500,Automatic,480
+Toyota,Camry,2020,40000,2500,Automatic,550
+Suzuki,Ertiga,2022,15000,1500,Automatic,210
+Honda,Brio Satya,2021,28000,1200,Manual,140
+Daihatsu,Xenia,2020,58000,1300,Automatic,155
+Toyota,Avanza,2017,105000,1500,Manual,135
+Mitsubishi,Xpander,2022,12000,1500,Automatic,240
+Honda,Mobilio RS,2019,68000,1500,Automatic,190
+Toyota,Calya,2021,33000,1200,Manual,118
+Daihatsu,Terios R,2019,72000,1500,Automatic,195
+Suzuki,Ignis GX,2020,48000,1200,Automatic,145
+Toyota,Yaris GR,2022,10000,1600,Manual,850
+Honda,Civic Type R,2021,15000,2000,Manual,1100
+Mitsubishi,Lancer Evo,2015,90000,2000,Manual,500
+Daihatsu,Ayla,2018,85000,1000,Automatic,95
+Toyota,Agya TRD,2020,52000,1200,Manual,125
+Honda,HR-V Prestige,2021,25000,1800,Automatic,360

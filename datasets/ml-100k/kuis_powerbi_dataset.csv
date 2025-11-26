@@ -1,0 +1,41 @@
+user_id,age,gender,occupation,movie_id,title,rating,timestamp,Comedy,Drama,Action
+877,30,M,other,381,Muriel's Wedding (1994),4,882677345,1,0,0
+815,32,M,other,602,"American in Paris, An (1951)",3,878694269,0,0,0
+94,26,M,student,431,Highlander (1986),4,891721716,0,0,1
+416,20,F,student,875,She's So Lovely (1997),2,876696938,0,1,0
+500,28,M,administrator,182,GoodFellas (1990),2,883873556,0,1,0
+259,21,M,student,1074,Reality Bites (1994),3,874725264,1,1,0
+598,40,F,marketing,286,"English Patient, The (1996)",5,886711452,0,1,0
+886,20,M,student,496,It's a Wonderful Life (1946),4,876031952,0,1,0
+837,36,F,artist,15,Mr. Holland's Opus (1995),3,875721869,0,1,0
+521,19,M,student,184,Army of Darkness (1993),4,884478358,1,0,1
+459,22,M,student,864,My Fellow Americans (1996),4,879563435,1,0,0
+622,25,M,programmer,568,Speed (1994),4,882592449,0,0,1
+655,50,F,healthcare,1197,"Family Thing, A (1996)",3,887474289,1,1,0
+128,24,F,marketing,99,Snow White and the Seven Dwarfs (1937),4,879967840,0,0,0
+308,60,M,retired,31,Crimson Tide (1995),3,887739472,0,1,0
+930,28,F,scientist,286,"English Patient, The (1996)",3,879533975,0,1,0
+43,29,F,librarian,14,"Postino, Il (1994)",2,883955745,0,1,0
+42,30,M,administrator,176,Aliens (1986),3,881107178,0,0,1
+450,35,F,educator,618,Picnic (1955),4,882373995,0,1,0
+521,19,M,student,568,Speed (1994),3,884478101,0,0,1
+698,28,F,programmer,176,Aliens (1986),4,886366814,0,0,1
+13,47,M,educator,476,"First Wives Club, The (1996)",2,882141997,1,0,0
+796,32,F,writer,82,Jurassic Park (1993),3,892676195,0,0,1
+308,60,M,retired,492,East of Eden (1955),3,887737535,0,1,0
+322,20,M,student,303,Ulee's Gold (1997),3,887313611,0,1,0
+276,21,M,student,408,"Close Shave, A (1995)",5,874786467,1,0,0
+537,36,M,engineer,483,Casablanca (1942),4,886030583,0,1,0
+933,28,M,student,180,Apocalypse Now (1979),5,874854723,0,1,0
+852,46,M,administrator,109,Mystery Science Theater 3000: The Movie (1996),3,891036505,1,0,0
+416,20,F,student,156,Reservoir Dogs (1992),5,893212895,0,0,0
+859,18,F,other,1281,Manny & Lo (1996),3,885774937,0,1,0
+892,36,M,other,2,GoldenEye (1995),4,886609006,0,0,1
+378,35,M,student,979,"Trigger Effect, The (1996)",3,880333851,0,1,0
+350,32,M,student,214,Pink Floyd - The Wall (1982),3,882347465,0,1,0
+393,19,M,student,1165,Big Bully (1996),3,889730514,1,1,0
+240,23,F,educator,245,"Devil's Own, The (1997)",4,885775831,0,1,1
+13,47,M,educator,326,G.I. Jane (1997),3,882140792,0,1,1
+165,20,F,other,651,Glory (1989),5,879525961,0,1,1
+184,37,M,librarian,95,Aladdin (1992),4,889908801,1,0,0
+296,43,F,administrator,45,Eat Drink Man Woman (1994),5,884197419,1,1,0
